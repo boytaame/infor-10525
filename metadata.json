@@ -1,0 +1,5 @@
+{
+  "name": "SQL FunHouse: Zoo Edition",
+  "description": "An interactive and visually engaging quiz to test your SQL knowledge based on a fun zoo database scenario. Features dynamic feedback powered by Gemini.",
+  "requestFramePermissions": []
+}
